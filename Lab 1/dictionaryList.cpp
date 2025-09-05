@@ -1,4 +1,9 @@
-// Lab 2 - Exercise A
+/*
+* File Name: dictionaryList.cpp
+* Assignment: Lab 1 Exercise B
+* Completed by: Harold Kim
+* Submission Date: Sept , 2025
+*/
 
 
 #include <assert.h>

@@ -1,3 +1,9 @@
+/*
+* File Name: human_program.cpp
+* Assignment: Lab 1 Exercise D
+* Completed by: Harold Kim
+* Submission Date: Sept , 2025
+*/
 #include <cstring>
 #include <iostream>
 using namespace std;
